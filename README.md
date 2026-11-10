@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**ljespinozaa/ljespinozaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! I'm Luis 👋
 
-Here are some ideas to get you started:
+### 🤖 Robotics Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently studying Robotics Engineering at the University of Alicante, Spain.
+
+I'm passionate about robotics, programming, automation, and technology.
+
+### 🛠️ Technologies & Tools
+
+- **Programming:** C, C++, Lua
+- **Robotics:** CoppeliaSim
+- **Engineering:** MATLAB, Simulink
+- **Development:** GitHub, VS Code
+
+### 🚀 My Projects
+
+Here you will find my university projects, programming exercises, and robotics simulations.
+
+I'm continuously learning and building my engineering portfolio.
+
+### 📚 Currently Learning
+
+- Robotics and Automation
+- Embedded Systems
+- Control Systems
+- Computer Vision
