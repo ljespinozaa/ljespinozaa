@@ -1,28 +1,60 @@
+# Hi, I'm Luis! 👋
 
-# Hi there! I'm Luis 👋
+### 🤖 Robotics Engineering Student | University of Alicante, Spain
 
-### 🤖 Robotics Engineering Student
+I'm a third-year Robotics Engineering student at the University of Alicante, with a growing interest in robotics, software development, automation and intelligent systems.
 
-I'm currently studying Robotics Engineering at the University of Alicante, Spain.
+My academic background combines programming, electronics, mechanics, control theory and computer vision, providing me with a multidisciplinary approach to engineering.
 
-I'm passionate about robotics, programming, automation, and technology.
+I enjoy applying theoretical concepts to practical challenges through programming, simulation and experimental projects.
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
-- **Programming:** C, C++, Lua
-- **Robotics:** CoppeliaSim
-- **Engineering:** MATLAB, Simulink
-- **Development:** GitHub, VS Code
+**Programming Languages**
+- C / C++
+- Python
+- Lua
 
-### 🚀 My Projects
+**Engineering & Simulation**
+- MATLAB / Simulink
+- CoppeliaSim
 
-Here you will find my university projects, programming exercises, and robotics simulations.
+**Computer Vision**
+- OpenCV
+- Image processing and feature detection
+- Image segmentation
 
-I'm continuously learning and building my engineering portfolio.
+**Development Tools**
+- Git & GitHub
+- Visual Studio Code
 
-### 📚 Currently Learning
+## 📚 Academic Background
 
-- Robotics and Automation
-- Embedded Systems
-- Control Systems
-- Computer Vision
+My Robotics Engineering studies cover several interconnected disciplines:
+
+- **Software & Algorithms:** Object-oriented programming, data structures, algorithm design and computational complexity.
+- **Robotics & Mechanics:** Robot kinematics, dynamics, mechanisms and simulation.
+- **Automation & Control:** Dynamic system modeling, feedback control, PID controllers and industrial automation.
+- **Electronics & Embedded Systems:** Digital electronics, microprocessors, sensors and embedded computing.
+- **Computer Vision:** Digital image processing, filtering, feature extraction and image segmentation.
+
+## 🚀 Projects
+
+This GitHub profile documents my academic projects, programming exercises and robotics simulations.
+
+**Computer Vision**
+
+A collection of Python and OpenCV projects exploring image processing, filtering, feature detection and segmentation.
+
+More projects will be added as I progress through my degree.
+
+## 🌱 Currently Exploring
+
+- Industrial automation and control
+- Computer vision applications
+- Embedded systems
+- Robotics programming and simulation
+
+## 🎯 My Goal
+
+To continue developing my technical skills through hands-on projects, explore different fields of robotics and build a strong foundation for my future professional career.
